@@ -1,0 +1,23 @@
+PODS:
+  - IRBSandbox (0.1.0):
+    - SSZipArchive
+  - SSZipArchive (2.1.4)
+
+DEPENDENCIES:
+  - IRBSandbox (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SSZipArchive
+
+EXTERNAL SOURCES:
+  IRBSandbox:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IRBSandbox: 8759d5f81dd2d65f4e5b1ef5aeea1fcc4557e39e
+  SSZipArchive: 41455d4b8d2b6ab93990820b50dc697c2554a322
+
+PODFILE CHECKSUM: 52c0037265c8a4aa6d1295be1a910e71fbe05d6d
+
+COCOAPODS: 1.6.0
